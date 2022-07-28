@@ -52,9 +52,9 @@ function paintMap() {
 	sdk.setData({
 		address: address,
 		width: width,
-		height: height,
-		zoom: zoom,
-		link: link,
+		//height: height,
+		//zoom: zoom,
+		//link: link,
 		imgURL0: imgURL0,
 		val: val
 	});
