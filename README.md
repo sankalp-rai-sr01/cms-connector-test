@@ -1,4 +1,4 @@
-# sampleblock
+# CMS Connector Test Block
 Sample Salesforce Marketing Cloud Content Builder Block using the [blocksdk](https://github.com/salesforce-marketingcloud/blocksdk).
 credits: [tbesluau](https://github.com/tbesluau/sampleblock)
 ## Deployment
@@ -28,7 +28,7 @@ Files to edit:
  * src/main.js for your code
  * dist/index.html for your markup
  * package.json for your block name and description
- * README.md to be your own README
+
  
 To test your changes locally:
 
