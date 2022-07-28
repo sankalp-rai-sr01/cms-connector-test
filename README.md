@@ -1,6 +1,6 @@
 # sampleblock
 Sample Salesforce Marketing Cloud Content Builder Block using the [blocksdk](https://github.com/salesforce-marketingcloud/blocksdk).
-
+credits: [tbesluau](https://github.com/tbesluau/sampleblock)
 ## Deployment
 As a node app:
 
