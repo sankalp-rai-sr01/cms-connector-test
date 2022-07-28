@@ -2,6 +2,6 @@
 	"name": "CMS Connector Test",
 	"description": "A Sample Salesforce Marketing Cloud Content Builder Custom Block",
 	"repository": "https://github.com/sankalp-rai-sr01/cms-connector-test",
-	"logo": "https://github.com/sankalp-rai-sr01/cms-connector-test/blob/master/dist/icon.png?raw=true"
+	"logo": "https://github.com/sankalp-rai-sr01/cms-connector-test/blob/master/dist/icon.png?raw=true",
 	"keywords": ["node", "express", "static", "content builder", "block", "blocksdk"]
 }
