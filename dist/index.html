@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Maps Block</title>
+		<title>Connector</title>
 	</head>
 	<body>
 		<article class="slds-card">
@@ -25,6 +25,16 @@
   </div>
   <div class="slds-card__body slds-card__body_inner">
   <div id="workspace">
+	
+	  <script>
+$(document).ready(function(){
+  $("img").click(function(){
+   var id = $(this).attr('id');
+      $("#text-input-id-1").val(id);    
+  });
+});
+         </script>  
+	 
   
    
   
@@ -153,6 +163,10 @@
   </div>
   <footer class="slds-card__footer">For use in Salesforce Marketing Cloud block SDK demos only</footer>
 </article>
+		
+		
+		
+		
 		
 		<script src="./main.js"></script>
 	</body>
